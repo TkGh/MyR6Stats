@@ -1,0 +1,23 @@
+<resources>
+
+    <style name="OpeningTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@android:color/transparent</item>
+        <item name="colorPrimaryDark">@android:color/transparent</item>
+        <item name="colorAccent">@android:color/transparent</item>
+
+        <item name="android:windowBackground">@color/dark_background_color</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="DarkTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorAccent">@color/dark_accent_color</item>
+        <item name="colorPrimary">@color/dark_primary_color</item>
+        <item name="colorPrimaryDark">@color/dark_dark_color</item>
+
+        <item name="search">@drawable/ic_search_white_24dp</item>
+    </style>
+
+    <style name="Toolbar.Title" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>

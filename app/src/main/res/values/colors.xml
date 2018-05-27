@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme -->
+    <color name="dark_background_color">#222222</color>
+
+    <color name="dark_primary_color">#070a0b</color>
+    <color name="dark_dark_color">#050708</color>
+    <color name="dark_accent_color">#66cccc</color>
+</resources>
